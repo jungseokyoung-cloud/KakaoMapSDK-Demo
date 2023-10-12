@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "kakaomapssdk-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kakao-mapsSDK/KakaoMapsSDK-SPM.git",
+      "state" : {
+        "revision" : "c8102e91217c2fc528da586e14024d5a6f5a162d",
+        "version" : "2.5.4"
+      }
+    },
+    {
+      "identity" : "snapkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SnapKit/SnapKit.git",
+      "state" : {
+        "revision" : "f222cbdf325885926566172f6f5f06af95473158",
+        "version" : "5.6.0"
+      }
+    }
+  ],
+  "version" : 2
+}
